@@ -3,7 +3,7 @@
 This project is for educational purposes only.
 
 Site published at:
-https://github.com/bozenakr/test-1
+https://bozenakr.github.io/test-1/
 
 
 ## Project features
